@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "911947052300",
+    "firebase_url": "https://studentinfo-855d9-default-rtdb.firebaseio.com",
+    "project_id": "studentinfo-855d9",
+    "storage_bucket": "studentinfo-855d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911947052300:android:4de1e4482bc8ef349e4529",
+        "android_client_info": {
+          "package_name": "com.example.student_d"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnH1SDNB_VH3PYX9aqGpWAiWj9EBpzpno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
